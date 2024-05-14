@@ -1,1 +1,1 @@
-# Automated Validation for Real-Estate Data Integrity
+# Automated Validation for Real Estate Data Integrity
